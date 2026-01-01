@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **css, js**
 
-- 👯 I’m looking to collaborate on [frontend developer](#)
+- 👋 I’m looking to collaborate on [frontend developer](#)
 
 - 🤝 I’m looking for help with **kishaShati**
 
