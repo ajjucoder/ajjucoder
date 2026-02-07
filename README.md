@@ -15,18 +15,19 @@ I build practical AI systems that solve real workflow problems: document intelli
 
 - [codex-team-orchestrator](https://github.com/ajjucoder/codex-team-orchestrator) - multi-agent orchestration runtime for Codex.
 - [pdf-ocr-engine](https://github.com/ajjucoder/pdf-ocr-engine) - scanned PDF to searchable PDF pipeline.
-- [opencode-proxy](https://github.com/ajjucoder/opencode-proxy) - OpenAI-compatible API layer for OpenCode models.
-- [ai-humanizer](https://github.com/ajjucoder/ai-humanizer) - product-focused rewriting workflow.
+- [claude-code-guide](https://github.com/ajjucoder/claude-code-guide) - setup and productivity toolkit for Claude Code.
+- [claude-code-safe-bypass](https://github.com/ajjucoder/claude-code-safe-bypass) - safer workflow config for reducing prompt friction.
 
-## Featured projects
+## Featured public projects
 
-- [ebps](https://github.com/ajjucoder/ebps) - AI-assisted building permit compliance checks.
-- [molt-bot-remote-coding](https://github.com/ajjucoder/molt-bot-remote-coding) - remote coding orchestration from Mac to home workstation.
-- [gitshield](https://github.com/ajjucoder/gitshield) - safer git workflows and guardrails.
-- [ghost-shell](https://github.com/ajjucoder/ghost-shell) - web terminal + browser gateway.
-- [claude-code-guide](https://github.com/ajjucoder/claude-code-guide) - setup and power-user toolkit for Claude Code.
-- [sitecraft](https://github.com/ajjucoder/sitecraft) - website builder experiments and tooling.
-- [kisan-sathi-next](https://github.com/ajjucoder/kisan-sathi-next) - agriculture-focused product work.
+- [claude-code](https://github.com/ajjucoder/claude-code)
+- [codex-team-orchestrator](https://github.com/ajjucoder/codex-team-orchestrator)
+- [pdf-ocr-engine](https://github.com/ajjucoder/pdf-ocr-engine)
+- [claude-code-guide](https://github.com/ajjucoder/claude-code-guide)
+- [claude-code-safe-bypass](https://github.com/ajjucoder/claude-code-safe-bypass)
+- [ebps](https://github.com/ajjucoder/ebps)
+- [ghost-shell](https://github.com/ajjucoder/ghost-shell)
+- [opencode](https://github.com/ajjucoder/opencode)
 
 ## 2026 focus
 
