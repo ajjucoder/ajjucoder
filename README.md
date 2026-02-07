@@ -15,8 +15,8 @@ I build practical AI systems that solve real workflow problems: document intelli
 
 - [codex-team-orchestrator](https://github.com/ajjucoder/codex-team-orchestrator) - multi-agent orchestration runtime for Codex.
 - [pdf-ocr-engine](https://github.com/ajjucoder/pdf-ocr-engine) - scanned PDF to searchable PDF pipeline.
-- [claude-code-guide](https://github.com/ajjucoder/claude-code-guide) - setup and productivity toolkit for Claude Code.
-- [claude-code-safe-bypass](https://github.com/ajjucoder/claude-code-safe-bypass) - safer workflow config for reducing prompt friction.
+- [ebps](https://github.com/ajjucoder/ebps) - AI-assisted building permit compliance checks.
+- [ghost-shell](https://github.com/ajjucoder/ghost-shell) - Ghost Cell terminal and browser workflow tooling.
 
 ## Featured public projects
 
