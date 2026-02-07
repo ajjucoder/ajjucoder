@@ -38,7 +38,7 @@ I build practical AI systems that solve real workflow problems: document intelli
 
 ## Connect
 
-- GitHub: [github.com/ajjucoder](https://github.com/ajjucoder)
+- LinkedIn: [linkedin.com/in/aejju-singh-305606268](https://www.linkedin.com/in/aejju-singh-305606268/)
 - Email: `aeeju15@gmail.com`
 - Medium: [medium.com/@ajjuajju](https://medium.com/@ajjuajju)
 
